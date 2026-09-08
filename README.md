@@ -1,5 +1,6 @@
-# grokbot-cybertruck
 <div align="center">
+
+# Grok Bot Cybertruck — 9 Agents
 
 **Nine Grok Bot agents that turn what your truck already knows into one sentence you can act on.**
 
@@ -179,4 +180,3 @@ agents/          nine agents, nine prompts
 [MIT](LICENSE). Take it, change it, ship your own version.
 
 Built by [@ScottyBeamIO](https://x.com/ScottyBeamIO) 🐹
-
