@@ -8,8 +8,9 @@ No code. No install. Nine prompts you paste into Grok Bot and use today.
 
 [Setup](SETUP.md) · [The agents](agents/) · [Rules](RULES.md) · [Templates](TEMPLATES.md) · [FAQ](FAQ.md)
 
-<img src="preview.gif" width="600" alt="Animated board: a truck crossing arctic ice with nine glowing agents linked beside it">
-
+[<img src="preview.gif" width="600" alt="Animated board: a truck crossing arctic ice with nine glowing agents linked beside it">
+](https://github.com/user-attachments/assets/ed998644-ae5a-4685-a627-0c0536090256
+)
 </div>
 
 ---
